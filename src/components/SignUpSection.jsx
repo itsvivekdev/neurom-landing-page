@@ -22,7 +22,7 @@ const SignUpSection = () => {
           </div>
 
           <div data-aos="fade-up" data-aos-delay="200" className="relative px-0 w-full flex justify-center items-center mx-auto">
-            <img src="SignUp-center-img.webp" className='w-full h-auto' alt="" />
+            <img src="SignUp-center-img.webp" loading="lazy" className='w-full h-auto' alt="" />
             <div className="absolute w-full bottom-0 h-3/4 bg-linear-to-t from-black via-black/80 to-transparent" />
           </div>
 

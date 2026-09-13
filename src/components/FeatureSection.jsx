@@ -14,7 +14,7 @@ const FeatureSection = () => {
             className="relative md:row-span-2 bg-[#0d1117] rounded-2xl p-6 border border-slate-800 flex flex-col justify-between overflow-hidden
             before:absolute before:-top-10 before:-left-10 before:w-full before:h-20 before:bg-blue-600/25 before:blur-2xl before:rounded-full before:pointer-events-none
             after:absolute after:-bottom-10 after:-right-10 after:w-full after:h-20 after:bg-blue-700/35 after:blur-2xl after:rounded-full after:pointer-events-none">
-            <img src="bento-research-assistant.png" alt="" className="w-full h-auto max-h-64 md:max-h-none object-contain mb-6" />
+            <img src="bento-research-assistant.png" loading="lazy" alt="" className="w-full h-auto max-h-64 md:max-h-none object-contain mb-6" />
             <div>
               <h3 className="text-xl md:text-2xl font-bold text-white mb-2">Intelligent Research Assistant</h3>
               <p className="text-slate-400 text-[14px]">
@@ -27,7 +27,7 @@ const FeatureSection = () => {
             className="relative bg-[#0d1117] rounded-2xl p-6 border border-slate-800 flex flex-col justify-between overflow-hidden
             before:absolute before:-top-10 before:-left-10 before:w-full before:h-20 before:bg-blue-600/25 before:blur-2xl before:rounded-full before:pointer-events-none
             after:absolute after:-bottom-10 after:-right-10 after:w-full after:h-20 after:bg-blue-700/35 after:blur-2xl after:rounded-full after:pointer-events-none">
-            <img src="bento-continual-improvement.png" alt="" className="w-full h-auto max-h-64 object-contain mb-4" />
+            <img src="bento-continual-improvement.png" loading="lazy" alt="" className="w-full h-auto max-h-64 object-contain mb-4" />
             <div>
               <h3 className="text-lg font-bold text-white mb-1">Continual Improvement</h3>
               <p className="text-slate-400 text-[14px]">AI constantly learns from user interactions and website data & this ongoing process.</p>
@@ -38,7 +38,7 @@ const FeatureSection = () => {
             className="relative bg-[#0d1117] rounded-2xl p-6 border border-slate-800 flex flex-col justify-between overflow-hidden
             before:absolute before:-top-10 before:-left-10 before:w-full before:h-20 before:bg-blue-600/25 before:blur-2xl before:rounded-full before:pointer-events-none
             after:absolute after:-bottom-10 after:-right-10 after:w-full after:h-20 after:bg-blue-700/35 after:blur-2xl after:rounded-full after:pointer-events-none">
-            <img src="bento-scalable-interface.avif" alt="" className="w-full h-auto max-h-64 object-contain mb-4" />
+            <img src="bento-scalable-interface.avif" loading="lazy" alt="" className="w-full h-auto max-h-64 object-contain mb-4" />
             <div>
               <h3 className="text-lg md:text-xl font-bold text-white mb-1">Scalable Interface</h3>
               <p className="text-slate-400 text-[14px]">AI constantly learns from user interactions and website data & this ongoing process.</p>
@@ -49,7 +49,7 @@ const FeatureSection = () => {
             className="relative bg-[#0d1117] rounded-2xl p-6 border border-slate-800 flex flex-col justify-between overflow-hidden
             before:absolute before:-top-10 before:-left-10 before:w-full before:h-20 before:bg-blue-600/25 before:blur-2xl before:rounded-full before:pointer-events-none
             after:absolute after:-bottom-10 after:-right-10 after:w-full after:h-20 after:bg-blue-700/35 after:blur-2xl after:rounded-full after:pointer-events-none">
-            <img src="bento-effortless-onboarding.png" alt="" className="w-full h-auto max-h-64 object-contain mb-4" />
+            <img src="bento-effortless-onboarding.png" loading="lazy" alt="" className="w-full h-auto max-h-64 object-contain mb-4" />
             <div>
               <h3 className="text-lg md:text-xl font-bold text-white mb-1">Effortless Onboarding</h3>
               <p className="text-slate-400 text-[14px]">See how our platform connects buyers and sellers worldwide—instantly and seamlessly.</p>
@@ -64,7 +64,7 @@ const FeatureSection = () => {
               <h3 className="text-lg md:text-xl font-bold text-white mb-1">Actionable Insights</h3>
               <p className="text-slate-400 text-[14px] mb-4">Tracks user behavior and conversions to reveal what's driving results.</p>
             </div>
-            <img src="bento-analytics-chart.png" alt="" className="w-full h-auto max-h-64 object-contain mt-2" />
+            <img src="bento-analytics-chart.png" loading="lazy" alt="" className="w-full h-auto max-h-64 object-contain mt-2" />
           </div>
 
         </div>

@@ -13,7 +13,7 @@ const IntegrationSection = () => {
             subtitle={<>Connect, collaborate, and operate efficiently with the tools<br /> your team already depends on.</>}
           />
           <div data-aos="zoom-in" data-aos-delay="100">
-            <img className='w-full h-auto' src="Integration-main-img.jpg" alt="" />
+            <img className='w-full h-auto' loading="lazy" src="Integration-main-img.jpg" alt="" />
           </div>
         </div>
       </section>

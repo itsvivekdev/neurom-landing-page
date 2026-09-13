@@ -68,7 +68,7 @@ const Footer = () => {
       </div>
 
       <div className="mt-16 w-full overflow-hidden">
-        <img className="block w-full h-auto" src="footer-img.png" alt="" />
+        <img className="block   w-full h-auto" src="footer-img.png" loading="lazy" alt="" />
       </div>
 
     </footer>
