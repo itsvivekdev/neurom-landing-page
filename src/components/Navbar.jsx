@@ -17,7 +17,7 @@ const Navbar = () => {
         </ul>
 
         <a href="#signup" className='hidden lg:flex'>
-          <button className=' flex items-center transition-all duration-300 hover:scale-105 cursor-pointer bg-white rounded-2xl px-5 py-3 text-black gap-2'>
+          <button className=' flex items-center transition-all duration-300 hover:scale-105 cursor-pointer bg-white rounded-2xl px-4 py-2 text-black gap-2'>
             Get Template <img src="navbtnsvg.svg" alt="svg" />
           </button>
         </a>
