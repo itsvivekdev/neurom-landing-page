@@ -64,7 +64,7 @@ const Footer = () => {
       </div>
 
       <div className="px-6 pt-8 border-t mt-6 border-[#9B9DA7]/10 md:px-12 lg:px-14">
-        <p className='text-[#9B9DA7] text-lg'>Designed by <u className='text-white cursor-pointer'>Olynex</u>. Powered by <u className='text-white cursor-pointer'>Webflow</u></p>
+        <p className='text-[#9B9DA7] text-lg'>Built in React by <u>Vivek</u></p>
       </div>
 
       <div className="mt-16 w-full overflow-hidden">
