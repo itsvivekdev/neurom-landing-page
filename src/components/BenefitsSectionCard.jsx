@@ -1,6 +1,6 @@
 import React from 'react'
 
-const BenfitsSectionCard = ({icon,title,description}) => {
+const BenefitsSectionCard = ({icon,title,description}) => {
   return (
     <div>
         <div className="flex items-center flex-col gap-2  p-2 lg:p-4">
@@ -12,4 +12,4 @@ const BenfitsSectionCard = ({icon,title,description}) => {
   )
 }
 
-export default BenfitsSectionCard
+export default BenefitsSectionCard
